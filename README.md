@@ -1,7 +1,7 @@
 # ARP-Attack-and-Network-Sniffing
+
 # Explore Network Sniffing and ARP Attacks
-### NAME: JOTHIKRISHNAA V
-### REGISTER NUMBER : 212223100017
+
 # AIM:
 
 To explore network sniffing and ARP Attacks
